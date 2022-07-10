@@ -6,3 +6,5 @@ In this project we are going to build a website for a very simple recipe. The we
 Let us rather think about consolidating HTML skills. 
 - First, let us set up a new repository 
 - Next, we edit the file README.md (which is the file we are editing now)
+- We create index.html and relative pages (recipes) in order to make some practice with code.
+- We link relative pages to index.html and include some information.
